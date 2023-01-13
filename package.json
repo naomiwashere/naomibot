@@ -1,7 +1,7 @@
 {
     "name": "SCBOT2022",
     "version": "3.0.0",
-    "description": "WhatsApp BOT By Zyko",
+    "description": "WhatsApp BOT By Naomi",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -23,16 +23,16 @@
         "wabot-aq"
     ],
     
-    "homepage": "https://github.com/ZykoBotz-MD",
+    "homepage": "https://github.com/naomiwashere",
     "author": {
-        "name": "Zyko-MD"
+        "name": "naomiwashere"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ZykoBotz-MD"
+        "url": "git+https://github.com/naomiwashere"
     },
     "bugs": {
-        "url": "https://github.com/ZykoBotz-MD"
+        "url": "https://github.com/naomiwashere"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
