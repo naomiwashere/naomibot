@@ -45,7 +45,7 @@ global.linkyt = '-'
 global.syt = '-'
 global.sfb = 'https://www.facebook.com/' // facebook
 global.snh = '-'
-global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
+global.media = '-'
 global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
 //⫹⫺ ╳╶┈ ⎝ +60109018435,NAOMI,NAOMIAJA,NAOMICANTIKBANGET  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
@@ -78,8 +78,8 @@ global.nameown2 = 'NAOMIAJA'
 global.readMore = readMore
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 NAOMICANTIKBANGET'
 global.wm2 = 'NAOMICANTIKBANGET '
-global.packname = wm
-global.watermark = wm
+global.packname = naomicantik
+global.watermark = naomicantik
 global.titlebot = `NAOMIAJA`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -98,12 +98,12 @@ global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INTRO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.botintro = 'HI, NAOMI CANTIK DI SINI'
-global.intro = 'https://telegra.ph/file/676bac7774d2785b7ee1e.jpg'
+global.intro = 'naomicantiksini'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.lynk = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -340,9 +340,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/kabulsaputra21"
+global.urlnya = "-"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '628XXXXXXXXX'
+global.phn = '-'
 
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
