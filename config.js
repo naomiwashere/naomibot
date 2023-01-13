@@ -36,56 +36,56 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/kabulsaputra21'
-global.tautanwa = 'https://wa.me/message/KRXQFJXHYZDNL1'
-global.sgh = 'https://github.com/ZykoBotz-MD' //github
-global.sgc = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf' //group whatsapp
+global.sig = 'https://instagram.com/adoreeaminn?igshid=YmMyMTA2M2Y='
+global.tautanwa = '-'
+global.sgh = 'https://github.com/naomiwashere' //github
+global.sgc = '-' //group whatsapp
 global.sdc = '-' //discord
-global.linkyt = 'https://youtube.com/@zykobotz'
-global.syt = 'https://youtube.com/@zykobotz'
+global.linkyt = '-'
+global.syt = '-'
 global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf'
+global.snh = '-'
 global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
 global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
-//⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
+//⫹⫺ ╳╶┈ ⎝ +60109018435,NAOMI,NAOMIAJA,NAOMICANTIKBANGET  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['628XXXXXXXXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
-['628XXXXXXXXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
+['60109018435', 'NAOMICANTIK', true],
+['60109018435', 'NAOMICANTIK', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '628XXXXXXXXX' //pasang no bot lo 
-global.nomorown = '628XXXXXXXXX' //pasang no own lo
-global.nomorown1 = '628XXXXXXXXX'
-global.nomorown2 = '628XXXXXXXXX'
-global.nomorwa = '0'
-global.nameown = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.gcname = '𝑍𝑌𝐾𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Created By 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.namabot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.packname2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nomorbot = '60109018435' //pasang no bot lo 
+global.nomorown = '60109018435' //pasang no own lo
+global.nomorown1 = '60109018435'
+global.nomorown2 = '60109018435'
+global.nomorwa = '60109018435'
+global.nameown = 'NAOMIAJA'
+global.gcname = 'NAOMI OFFICIAL'
+global.author = 'Created By NAOMIAJA'
+global.namabot = 'NAOMICANTIKBANGET'
+global.namebot = 'NAOMICANTIKBANGET'
+global.packname2 = 'NAOMICANTIKBANGET'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.nameown2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown1= 'NAOMIAJA'
+global.nameown2 = 'NAOMIAJA'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.wm2 = '𝑍𝑌𝐾𝑂-𝑀𝐷 '
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 NAOMICANTIKBANGET'
+global.wm2 = 'NAOMICANTIKBANGET '
 global.packname = wm
 global.watermark = wm
-global.titlebot = `𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.titlebot = `NAOMIAJA`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.stickauth = `© 𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.stickpack = 'NAOMICANTIKBANGET'
+global.stickauth = `© NAOMICANTIKBANGET`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -97,7 +97,7 @@ global.wibb = `${wktuwib}`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INTRO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.botintro = 'Hallo, Saya ZykoBotz-MD Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh zyko-md ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'HI, NAOMI CANTIK DI SINI'
 global.intro = 'https://telegra.ph/file/676bac7774d2785b7ee1e.jpg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -107,14 +107,14 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '08XXXXXXXXXX' //pasang no lo sinih buat donasi 
-global.povo = '08XXXXXXXXXX' 
-global.pgopay = '08XXXXXXXXXX'
+global.pdana = '+60109018435' //pasang no lo sinih buat donasi 
+global.povo = '+60109018435' 
+global.pgopay = '+60109018435'
 global.plinkaja = '-' //link aja
-global.ppulsa = '08XXXXXXXXXX'
-global.ppulsa2 = '08XXXXXXXXXX'
-global.psaweria = 'https://saweria.co/hyuura'
-global.donasikabul = 'Jasa Sewa ZykoBotz-MD\nhttps://lynk.id/kabul',
+global.ppulsa = '+60109018435'
+global.ppulsa2 = '+60109018435'
+global.psaweria = '+60109018435'
+global.donasikabul = 'Jasa Sewa naomibot',
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -147,9 +147,9 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RESPOND ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.stiker_wait = '▰▰▰▰▰▰▱▱ 98% 𝚠𝚊𝚒𝚝!!'
-global.wait = '▰▰▰▰▰▰▱▱ 98% 𝚠𝚊𝚒𝚝!!'
-global.md = 'tunggu sebentar kak'
+global.stiker_wait = 'naomi bot sedang loading ▰▰▰▰▰▰▱▱ 98% 𝚠𝚊𝚒𝚝!!'
+global.wait = 'naomi bot sedang loading ▰▰▰▰▰▰▱▱ 98% 𝚠𝚊𝚒𝚝!!'
+global.md = 'sebentar yang cantik atau hesmes'
 global.eror = 'Mohon Maaf Server Kami Sedang Error!'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RESPOND GEME ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -294,13 +294,13 @@ global.fotonya2 = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg' //ini juga
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ Main Thumbnail ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.thumb = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg' 
-global.imagebot = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
-global.giflogo = 'https://telegra.ph/file/d99857d74715351bdcd6c.mp4'
-global.zykomd = 'https://telegra.ph/file/568a7bba190f80c9f5cc6.mp4'
-global.thumbs = ['https://telegra.ph/file/2e8d2ef0926e848626a43.jpg']
+global.thumb = 'https://telegra.ph/naomi-01-13' 
+global.imagebot = 'https://telegra.ph/naomi-01-13'
+global.giflogo = 'https://telegra.ph/naomi-01-13'
+global.zykomd = 'https://telegra.ph/naomi-01-13'
+global.thumbs = ['https://telegra.ph/naomi-01-13']
 global.thumbnailUrl = [
-  'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
+  'https://telegra.ph/naomi-01-13', 'https://telegra.ph/naomi-01-13',
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
   'https://telegra.ph/file/7d6c0e35f9c8f52715541.jpg', 'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg',
   'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
